@@ -1,0 +1,26 @@
+body{
+    background-image:url("https://images.picxy.com/cache/2020/5/31/fcc2fa92cf3afa3ac756a889ed8681c2.jpg");
+    background-size: cover;
+    text-align: center;
+    text-shadow: 15px 0 100px;
+    margin:auto;
+}
+button{
+    border:none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color:white;
+    font-weight: bold;
+    width:200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+#increment-btn{
+    background-color: darkred;
+}
+#save-btn{
+    background-color: darkgreen;
+}
+.a{
+    margin-top: 250px;
+}
